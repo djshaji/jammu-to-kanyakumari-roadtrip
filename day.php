@@ -13,6 +13,46 @@
     <style>
       body {
         font-family: 'Montserrat', sans-serif;
+        background: linear-gradient(135deg, #f8fafc 0%, #e3f6f5 100%);
+        color: #4b4b4b;
+      }
+      .container {
+        background: #fdf6fb;
+        border-radius: 18px;
+        box-shadow: 0 2px 16px rgba(180, 180, 200, 0.08);
+        padding: 2.5rem 2rem;
+        margin-top: 2.5rem;
+      }
+      .list-group-item {
+        background: #e3f6f5;
+        color: #4b4b4b;
+        border: none;
+        border-radius: 10px;
+        margin-bottom: 0.5rem;
+        transition: background 0.2s;
+      }
+      .list-group-item:hover {
+        background: #f7d9e3;
+        color: #3a3a3a;
+      }
+      .alert-info {
+        background: #f7d9e3;
+        color: #4b4b4b;
+        border: none;
+        border-radius: 12px;
+      }
+      h1, .display-4 {
+        color: #7f9cf5;
+        font-weight: 600;
+      }
+      a {
+        color: #7f9cf5;
+        text-decoration: none;
+        font-weight: 500;
+      }
+      a:hover {
+        color: #e57399;
+        text-decoration: underline;
       }
     </style>
 </head>
@@ -22,7 +62,8 @@
   <?php
     if (! isset($_GET['file'])) {
       ?>
-      <h1 class="mt-5">Jammu to Kanyakumari Road Trip</h1>
+      <img class="img-fluid " src="no-destination.jpg" alt="Road Trip" class="img-fluid mb-4">      
+      <h1 class="mt-3">Jammu to Kanyakumari Road Trip</h1>
       <p class="lead">Welcome to the documentation of my road trip from Jammu to Kanyakumari. Please select a day to view the details:</p>
       <ul class="list-group">
       <?php
