@@ -3,12 +3,22 @@
 - **End Location:** Gwalior, MP
 - **Approx. Distance:** ≈850−900 km
 - **Key Stops/Notes:** VERY LONG DRIVE. Start before dawn. Use the main highways (NH 44 route). Minimal stopping.
+- Tourist Stop: Gwalior Fort (Evening/Next Morning).
+
+
 
 ## Day 2: Dec 26
 - **Start Location:** Gwalior
 - **End Location:** Nagpur, MH
 - **Approx. Distance:** ≈700 km
 - **Key Stops/Notes:** Long drive. This is your second major haul.
+- Tourist Stops: 
+  - Jhansi Fort
+  - Udaigiri Caves (quick detour near Vidisha)
+  - Sanchi Stupa (UNESCO, near Vidisha)
+  - Tropic of Cancer
+  - Deekshabhoomi, Nagpur (Evening/Next Morning).
+
 
 ## Day 3: Dec 27
 - **Start Location:** Nagpur
