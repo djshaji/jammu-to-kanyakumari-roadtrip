@@ -40,3 +40,4 @@ This route is the fastest and most reliable, with well-maintained roads and faci
 9. **Pench National Park** (near Nagpur) – Famous wildlife sanctuary. (~30 km detour from NH44 before Nagpur)
 10. **Ramtek Temple** (near Nagpur) – Ancient hilltop temple. (~40 km detour from NH44 before Nagpur)
 11. **Deekshabhoomi** (Nagpur) – Buddhist monument, major pilgrimage site. (0 km detour)
+

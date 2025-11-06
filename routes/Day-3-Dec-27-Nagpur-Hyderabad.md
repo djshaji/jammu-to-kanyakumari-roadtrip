@@ -1,4 +1,3 @@
----
 ## Nagpur to Hyderabad (Day 3: Dec 27)
 - **Start Location:** Nagpur
 - **End Location:** Hyderabad, TS

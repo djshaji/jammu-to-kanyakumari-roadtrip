@@ -1,9 +1,10 @@
 ## Jammu to Gwalior (Day 1: Dec 25)
 - **Start Location:** Jammu
 - **End Location:** Gwalior, MP
-- **Approx. Distance:** ≈850−900 km
+- **Approx. Distance:** ≈850–900 km
 - **Key Stops/Notes:** VERY LONG DRIVE. Start before dawn. Use the main highways (NH 44 route). Minimal stopping.
 - Tourist Stop: Gwalior Fort (Evening/Next Morning).
+
 [Map](https://www.google.com/maps/dir/Jammu/Gwalior,+Madhya+Pradesh,+India/@29.4488482,73.874398,7z/data=!3m1!4b1!4m19!4m18!1m5!1m1!1s0x391e84bf169d3525:0xf233488eeb8fd8d!2m2!1d74.8570259!2d32.7266016!1m5!1m1!1s0x3976c5d1792291fb:0xff4fb56d65bc3adf!2m2!1d78.1772053!2d26.2124007!2m4!3b1!6e0!7e2!8j1766646180!3e0?entry=ttu&g_ep=EgoyMDI1MTEwMi4wIKXMDSoASAFQAw%3D%3D)
 
 ### Fastest Route (NH/Toll)
